@@ -51,6 +51,10 @@ body{
  
 }
 
+.portrait {
+  width:250px;
+  height:250px;
+}
 /**********************************
 COLORS and BACKGROUNDS
 Color 1:
