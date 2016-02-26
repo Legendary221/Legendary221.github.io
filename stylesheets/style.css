@@ -43,18 +43,26 @@ h2{
   font-family: 'Satisfy', cursive;
   text-size:100px;
   text-align:center;
+  color:Yell;
 }
 
 body{
   text-size:25px;
  background-color:green;
+ color:;
  
+ 
+}
+article{
+  color:yellow;
 }
 
 .portrait {
   width:250px;
   height:250px;
+  color:;
 }
+
 /**********************************
 COLORS and BACKGROUNDS
 Color 1:
